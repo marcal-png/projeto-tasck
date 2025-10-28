@@ -22,3 +22,4 @@ staticfiles/
 dist/
 .eggs/
 *.log
+EOF
